@@ -1,7 +1,5 @@
 <div align="center">
 
-![Someone Painted This Before — choose how you're feeling, find the painting that holds it](banner.png)
-
 *Name a mood. Get a painting from the Met's open collection that already carries it.*
 
 <br>
